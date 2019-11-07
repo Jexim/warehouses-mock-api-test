@@ -1,0 +1,466 @@
+{
+  "warehouses": [
+    {
+      "title": "Plikling",
+      "productsQuantity": 40,
+      "id": 7
+    },
+    {
+      "title": "Wistead",
+      "productsQuantity": 15,
+      "id": 9
+    },
+    {
+      "title": "Fourith",
+      "productsQuantity": 128,
+      "id": 12
+    },
+    {
+      "title": "Temmery",
+      "productsQuantity": 44,
+      "id": 13
+    },
+    {
+      "title": "Clafield",
+      "productsQuantity": 33,
+      "id": 14
+    },
+    {
+      "title": "Sita",
+      "productsQuantity": 33,
+      "id": 15
+    },
+    {
+      "title": "Khaka",
+      "productsQuantity": 44,
+      "id": 16
+    },
+    {
+      "title": "Heles",
+      "productsQuantity": 22,
+      "id": 17
+    },
+    {
+      "title": "Oreburgh",
+      "productsQuantity": 23,
+      "id": 18
+    },
+    {
+      "title": "Eygend",
+      "productsQuantity": 38,
+      "id": 19
+    },
+    {
+      "title": "Vricbridge",
+      "productsQuantity": 5,
+      "id": 20
+    },
+    {
+      "title": "Pleapolis",
+      "productsQuantity": 0,
+      "id": 21
+    },
+    {
+      "title": "Cluota",
+      "productsQuantity": 0,
+      "id": 22
+    },
+    {
+      "title": "Vlaving",
+      "productsQuantity": 0,
+      "id": 23
+    },
+    {
+      "title": "Ditol",
+      "productsQuantity": 0,
+      "id": 24
+    },
+    {
+      "title": "Qrerton",
+      "productsQuantity": 4,
+      "id": 25
+    },
+    {
+      "title": "Plares",
+      "productsQuantity": 8,
+      "id": 26
+    },
+    {
+      "title": "Klose",
+      "productsQuantity": 4,
+      "id": 27
+    },
+    {
+      "title": "Ancechester",
+      "productsQuantity": 0,
+      "id": 28
+    },
+    {
+      "title": "Asobert",
+      "productsQuantity": 0,
+      "id": 29
+    },
+    {
+      "title": "Datol",
+      "productsQuantity": 0,
+      "id": 30
+    },
+    {
+      "title": "Uraross",
+      "productsQuantity": 0,
+      "id": 31
+    },
+    {
+      "title": "Convale",
+      "productsQuantity": 0,
+      "id": 32
+    },
+    {
+      "title": "Riross",
+      "productsQuantity": 0,
+      "id": 33
+    },
+    {
+      "title": "Plifield",
+      "productsQuantity": 0,
+      "id": 34
+    },
+    {
+      "title": "Glico",
+      "productsQuantity": 0,
+      "id": 35
+    },
+    {
+      "title": "Wurgh",
+      "productsQuantity": 0,
+      "id": 36
+    },
+    {
+      "title": "Uyeka",
+      "productsQuantity": 0,
+      "id": 37
+    },
+    {
+      "title": "Ertonbert",
+      "productsQuantity": 0,
+      "id": 38
+    },
+    {
+      "title": "Orkson",
+      "productsQuantity": 75,
+      "id": 39
+    }
+  ],
+  "products": [
+    {
+      "title": "Book",
+      "quantity": 150,
+      "freeQuantity": 82,
+      "id": 1
+    },
+    {
+      "freeQuantity": null,
+      "id": 2
+    },
+    {
+      "title": "Table",
+      "quantity": 100,
+      "freeQuantity": 22,
+      "id": 3
+    },
+    {
+      "freeQuantity": null,
+      "id": 4
+    },
+    {
+      "title": "Soap",
+      "quantity": 300,
+      "freeQuantity": 121,
+      "id": 5
+    },
+    {
+      "title": "Computer",
+      "quantity": 122,
+      "freeQuantity": 6,
+      "id": 6
+    },
+    {
+      "title": "Zipper",
+      "quantity": 250,
+      "freeQuantity": 196,
+      "id": 7
+    },
+    {
+      "title": "Magnet",
+      "quantity": 550,
+      "freeQuantity": 550,
+      "id": 8
+    },
+    {
+      "title": "Glass",
+      "quantity": 680,
+      "freeQuantity": 680,
+      "id": 9
+    },
+    {
+      "title": "Window",
+      "quantity": 670,
+      "freeQuantity": 670,
+      "id": 10
+    },
+    {
+      "title": "Piano",
+      "quantity": 660,
+      "freeQuantity": 660,
+      "id": 11
+    },
+    {
+      "title": "Bed",
+      "quantity": 880,
+      "freeQuantity": 880,
+      "id": 12
+    },
+    {
+      "title": "Puddle",
+      "quantity": 660,
+      "freeQuantity": 660,
+      "id": 13
+    },
+    {
+      "title": "Milk",
+      "quantity": 500,
+      "freeQuantity": 500,
+      "id": 14
+    },
+    {
+      "title": "Twezzers",
+      "quantity": 400,
+      "freeQuantity": 400,
+      "id": 15
+    },
+    {
+      "title": "Bracelet",
+      "quantity": 520,
+      "freeQuantity": 520,
+      "id": 16
+    },
+    {
+      "title": "Pen",
+      "quantity": 560,
+      "freeQuantity": 560,
+      "id": 17
+    },
+    {
+      "title": "Blouse",
+      "quantity": 400,
+      "freeQuantity": 400,
+      "id": 18
+    },
+    {
+      "title": "Toothbrush",
+      "quantity": 430,
+      "freeQuantity": 430,
+      "id": 19
+    },
+    {
+      "title": "Needle",
+      "quantity": 240,
+      "freeQuantity": 240,
+      "id": 20
+    },
+    {
+      "title": "Bottle",
+      "quantity": 430,
+      "freeQuantity": 430,
+      "id": 21
+    },
+    {
+      "title": "Mirror",
+      "quantity": 480,
+      "freeQuantity": 480,
+      "id": 22
+    },
+    {
+      "title": "Pants",
+      "quantity": 320,
+      "freeQuantity": 320,
+      "id": 23
+    },
+    {
+      "title": "Hanger",
+      "quantity": 410,
+      "freeQuantity": 410,
+      "id": 24
+    },
+    {
+      "title": "Newspaper",
+      "quantity": 500,
+      "freeQuantity": 500,
+      "id": 25
+    },
+    {
+      "title": "Knife",
+      "quantity": 570,
+      "freeQuantity": 570,
+      "id": 26
+    },
+    {
+      "title": "Canvas",
+      "quantity": 210,
+      "freeQuantity": 210,
+      "id": 27
+    },
+    {
+      "title": "Chair",
+      "quantity": 430,
+      "freeQuantity": 430,
+      "id": 28
+    },
+    {
+      "title": "Slipper",
+      "quantity": 230,
+      "freeQuantity": 230,
+      "id": 29
+    },
+    {
+      "title": "Headphones",
+      "quantity": 375,
+      "freeQuantity": 300,
+      "id": 30
+    }
+  ],
+  "warehousesProducts": [
+    {
+      "warehouseId": 9,
+      "productId": 3,
+      "quantity": 15,
+      "id": 1
+    },
+    {
+      "warehouseId": 12,
+      "productId": 1,
+      "quantity": 46,
+      "id": 2
+    },
+    {
+      "warehouseId": 7,
+      "productId": 3,
+      "quantity": 29,
+      "id": 4
+    },
+    {
+      "warehouseId": 7,
+      "productId": 5,
+      "quantity": 30,
+      "id": 6
+    },
+    {
+      "warehouseId": 12,
+      "productId": 7,
+      "quantity": 27,
+      "id": 10
+    },
+    {
+      "warehouseId": 13,
+      "productId": 5,
+      "quantity": 39,
+      "id": 11
+    },
+    {
+      "warehouseId": 13,
+      "productId": 3,
+      "quantity": 6,
+      "id": 12
+    },
+    {
+      "warehouseId": 14,
+      "productId": 5,
+      "quantity": 33,
+      "id": 13
+    },
+    {
+      "warehouseId": 15,
+      "productId": 5,
+      "quantity": 33,
+      "id": 14
+    },
+    {
+      "warehouseId": 16,
+      "productId": 5,
+      "quantity": 44,
+      "id": 15
+    },
+    {
+      "warehouseId": 17,
+      "productId": 1,
+      "quantity": 22,
+      "id": 16
+    },
+    {
+      "warehouseId": 18,
+      "productId": 7,
+      "quantity": 23,
+      "id": 17
+    },
+    {
+      "warehouseId": 19,
+      "productId": 3,
+      "quantity": 22,
+      "id": 18
+    },
+    {
+      "warehouseId": 19,
+      "productId": 6,
+      "quantity": 16,
+      "id": 19
+    },
+    {
+      "warehouseId": 7,
+      "productId": 6,
+      "quantity": 33,
+      "id": 20
+    },
+    {
+      "warehouseId": 12,
+      "productId": 6,
+      "quantity": 55,
+      "id": 21
+    },
+    {
+      "warehouseId": 14,
+      "productId": 3,
+      "quantity": 1,
+      "id": 22
+    },
+    {
+      "warehouseId": 20,
+      "productId": 3,
+      "quantity": 5,
+      "id": 23
+    },
+    {
+      "warehouseId": 25,
+      "productId": 6,
+      "quantity": 4,
+      "id": 24
+    },
+    {
+      "warehouseId": 26,
+      "productId": 6,
+      "quantity": 8,
+      "id": 25
+    },
+    {
+      "warehouseId": 27,
+      "productId": 7,
+      "quantity": 4,
+      "id": 26
+    },
+    {
+      "warehouseId": 39,
+      "productId": 30,
+      "quantity": 75,
+      "id": 27
+    }
+  ]
+}

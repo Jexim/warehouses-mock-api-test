@@ -1,0 +1,14 @@
+{
+  "name": "warehouses-mock-api-test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "mock:api": "json-server --watch db.json --port 4000"
+  },
+  "author": "Yevhenii Sen <JeximST@gmail.com>",
+  "license": "ISC",
+  "dependencies": {
+    "json-server": "^0.15.1"
+  }
+}
